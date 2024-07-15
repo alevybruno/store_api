@@ -1,5 +1,8 @@
 # TDD Project
 
+### Descrição
+Este foi um projeto já existente, o qual realizei um fork e então conclui os desafios propostos ao final desse README. Caso queira ver o projeto original, ele se encontra em [Repositório Original](https://github.com/digitalinnovationone/store_api)
+
 ## O que é TDD?
 TDD é uma sigla para `Test Driven Development`, ou Desenvolvimento Orientado a Testes. A ideia do TDD é que você trabalhe em ciclos.
 
